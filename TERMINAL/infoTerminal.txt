@@ -1,0 +1,6 @@
+- Crear una carpeta (mkdir)
+- Entrar a la carpeta (cd )
+- Volver a una carpeta atrás (cd nombreCarpeta)
+- Listar archivos y carpetas (ls)
+- Crear un archivo txt que contenga un hola mundo dentro. (echo "Hola Mundo" > holamundo.txt)
+- Ver el contenido de un txt (holamundo.txt)
